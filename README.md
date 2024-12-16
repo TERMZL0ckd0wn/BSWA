@@ -25,5 +25,5 @@ Sila e-mel saya di termzl0ckd0wn@termz.eu.org untuk bantuan lanjut **atau** bole
 - **Pengaturcaraan (fail `.ino` Arduino)**: Lesen bawah "MIT License".
 - **Skematik litar, fail 3D dan dokumentasi**: Lesen bawah "Creative Commons Attribution-ShareAlike 4.0 International (CC-BY-SA 4.0)".
 
-Lihat file [`LICENSE`](https://github.com/TERMZL0ckd0wn/BSWA/blob/main/LICENSE) untuk teks lesen yang terperinci.
+Lihat file [`LICENSE_BM`](https://github.com/TERMZL0ckd0wn/BSWA/blob/main/LICENSE_BM) untuk teks lesen yang terperinci.
 
