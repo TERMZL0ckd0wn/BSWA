@@ -1,9 +1,9 @@
 # BSWA - <ins>BM</ins> / [EN](https://github.com/TERMZL0ckd0wn/BSWA/blob/main/en.md)
-**B**lind **S**tick **W**ith **A**lerts adalah kayu untuk warga emas untuk mengesan halangan yang tidak dapat dilihat oleh warga tersebut. Projek ini menggunakan lesen-lesen tertentu, lesen-lesen yang digunakan ada di [sini](#lesen-lesen). Anda dibenarkan _fork_ projek ini dengan syarat-syarat tertentu.
+**B**lind **S**tick **W**ith **A**lerts adalah kayu untuk warga emas untuk mengesan halangan yang tidak dapat dilihat oleh warga tersebut. Projek ini menggunakan lesen-lesen tertentu, lesen-lesen yang digunakan ada di [sini](#lesen-lesen).
 
 ## Penerangan terperinci
 
-Kerja dalam pengusahaan
+BSWA digunakan untuk warga emas atau setaraf dengannya untuk mengesan halangan di hadapan yang tidak dapat dilihat atau dikesan. BSWA terdapat berberapa fungsi. Selain daripada mengesan objek di hadapan, ia juga boleh mengesan air supaya pengguna perasan bahawa pengguna telah menjejaki kawasan yang berair seperti lopak air. BSWA menggunakan komponen elektrik dan elektronik yang sedia ada di pasaran
 
 ## Penggunaan
 
