@@ -20,6 +20,9 @@ Selain itu, pemegang untuk seluruh BSWA dicetak 3D dengan menggunakan reka bentu
 
 ## Skematik 3D dan litar elektrik projek
 
+#### Skematik Litar
+![Skematik Litar Elektrik BSWA](https://github.com/TERMZL0ckd0wn/BSWA/blob/main/gambar-images/circuit.png)
+
 Kerja dalam pengusahaan
 
 ## 3D Print fail
