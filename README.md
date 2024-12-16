@@ -18,16 +18,19 @@ BSWA digunakan untuk warga emas atau setaraf dengannya untuk mengesan halangan d
 
 Selain itu, pemegang untuk seluruh BSWA dicetak 3D dengan menggunakan reka bentuk yang padat dan ringkas. Jikalau mahu membuat reka bentuk yang lebih baik dan menarik, anda boleh menggunakan _web-app_ [TinkerCAD](https://tinkercad.com).
 
-## Skematik 3D dan litar elektrik projek
+## Model 3D dan skematik litar projek
 
 #### Skematik Litar
-![Skematik Litar Elektrik BSWA](https://github.com/TERMZL0ckd0wn/BSWA/blob/main/gambar-images/circuit.png)
+![Skematik Litar](https://github.com/TERMZL0ckd0wn/BSWA/blob/main/gambar-images/circuit.png)
 
-Kerja dalam pengusahaan
+#### Skematik 3D
+Boleh rujuk kepada fail 3D [dibawah](#fail-projek).
 
-## 3D Print fail
+## Fail projek
 
-Kerja dalam pengusahaan
+Fail per=ngaturcaraan boleh dimuat turun diatas dengan menekan `Code`>`Download ZIP`
+
+Fail 3D boleh dimuat turun di [sini](https://mega.nz/file/ttoExZTY#ccFkYLgf6KSVfLNviJlGrgVnpyGEBu5EU5aTMJhyIl4)
 
 ## Bantuan masalah
 Sila e-mel saya di termzl0ckd0wn@termz.eu.org untuk bantuan lanjut **atau** boleh pergi ke [**pusat isu repositori**](https://github.com/TERMZL0ckd0wn/BSWA/issues) untuk mendapatkan bantuan sambil kongsikan cara penyelesaian masalah kepada pengguna lain
