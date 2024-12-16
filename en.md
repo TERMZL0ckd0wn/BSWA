@@ -1,1 +1,1 @@
-# BWSA - EN / [BM](https://github.com/TERMZL0ckd0wn/BWSA/blob/main/README.md)
+# BWSA - EN / [BM](https://github.com/TERMZL0ckd0wn/BSWA/blob/main/README.md)
