@@ -17,5 +17,13 @@ Kerja dalam pengusahaan
 
 Kerja dalam pengusahaan
 
-## Kontak jika bermasalah
+## Bantuan masalah
 Sila e-mel saya di termzl0ckd0wn@termz.eu.org untuk bantuan lanjut **atau** boleh pergi ke [**pusat isu repositori**](https://github.com/TERMZL0ckd0wn/BSWA/issues) untuk mendapatkan bantuan sambil kongsikan cara penyelesaian masalah kepada pengguna lain
+
+## Lesen-lesen
+
+- **Pengaturcaraan (fail `.ino` Arduino)**: Lesen bawah "MIT License".
+- **Skematik litar, fail 3D dan dokumentasi**: Lesen bawah "Creative Commons Attribution-ShareAlike 4.0 International (CC-BY-SA 4.0)".
+
+Lihat file `LICENSE` untuk teks lesen yang perperinci.
+
