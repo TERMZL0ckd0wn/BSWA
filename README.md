@@ -18,10 +18,6 @@ BSWA digunakan untuk warga emas atau setaraf dengannya untuk mengesan halangan d
 
 Selain itu, pemegang untuk seluruh BSWA dicetak 3D dengan menggunakan reka bentuk yang padat dan ringkas. Jikalau mahu membuat reka bentuk yang lebih baik dan menarik, anda boleh menggunakan _web-app_ [TinkerCAD](https://tinkercad.com).
 
-## Penggunaan
-
-Kerja dalam pengusahaan
-
 ## Skematik 3D dan litar elektrik projek
 
 Kerja dalam pengusahaan
