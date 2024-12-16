@@ -1,5 +1,9 @@
 # BSWA - <ins>BM</ins> / [EN](https://github.com/TERMZL0ckd0wn/BSWA/blob/main/en.md)
-**B**lind **S**tick **W**ith **A**lerts adalah kayu untuk warga emas untuk mengesan halangan yang tidak dapat dilihat oleh warga tersebut. Projek ini menggunakan lesen GPLv3 iaitu lesen sunber terbuka. Anda dibenarkan meng-_fork_ projek ini untuk membuat penambahbaikan kepada pengaturcaraan dan dokumentasi repositori ini.
+**B**lind **S**tick **W**ith **A**lerts adalah kayu untuk warga emas untuk mengesan halangan yang tidak dapat dilihat oleh warga tersebut. Projek ini menggunakan lesen GPLv3 iaitu lesen sunber terbuka. Anda dibenarkan _fork_ projek ini untuk membuat penambahbaikan kepada pengaturcaraan dan dokumentasi repositori ini.
+
+## Penerangan terperinci
+
+Kerja dalam pengusahaan
 
 ## Penggunaan
 
