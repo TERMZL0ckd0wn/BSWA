@@ -4,3 +4,6 @@
 ## Skematik litar projek
 
 ## 3D Print fail
+
+## Kontak jika bermasalah
+Sila e-mel saya di termzl0ckd0wn@termz.eu.org untuk bantuan lanjut
