@@ -3,13 +3,26 @@
 
 ## Penerangan terperinci
 
-BSWA digunakan untuk warga emas atau setaraf dengannya untuk mengesan halangan di hadapan yang tidak dapat dilihat atau dikesan. BSWA terdapat berberapa fungsi. Selain daripada mengesan objek di hadapan, ia juga boleh mengesan air supaya pengguna perasan bahawa pengguna telah menjejaki kawasan yang berair seperti lopak air. BSWA menggunakan komponen elektrik dan elektronik yang sedia ada di pasaran
+BSWA digunakan untuk warga emas atau setaraf dengannya untuk mengesan halangan di hadapan yang tidak dapat dilihat atau dikesan. BSWA terdapat berberapa fungsi. Selain daripada mengesan objek di hadapan, ia juga boleh mengesan air supaya pengguna perasan bahawa pengguna telah menjejaki kawasan yang berair seperti lopak air. BSWA menggunakan komponen elektrik dan elektronik yang sedia ada di pasaran.
+
+**Senarai barangan elektrik :**
+1. Suis
+2. Wayar
+3. Bateri
+4. Pemegang Bateri
+
+**Senarai barangan elektronik :**
+1. Arduino Nano
+2. Sensor Ultrasonik
+3. Sensor Air
+
+Selain itu, pemegang untuk seluruh BSWA dicetak 3D dengan menggunakan reka bentuk yang padat dan ringkas. Jikalau mahu membuat reka bentuk yang lebih baik dan menarik, anda boleh menggunakan _web-app_ [TinkerCAD](https://tinkercad.com).
 
 ## Penggunaan
 
 Kerja dalam pengusahaan
 
-## Skematik litar projek
+## Skematik 3D dan litar elektrik projek
 
 Kerja dalam pengusahaan
 
