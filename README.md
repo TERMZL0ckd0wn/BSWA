@@ -30,7 +30,7 @@ Boleh rujuk kepada fail 3D [dibawah](#fail-projek).
 
 **Fail pengaturcaraan** boleh dimuat turun diatas dengan menekan `Code`>`Download ZIP`
 
-**Fail 3D** boleh dimuat turun di [sini](https://mega.nz/file/ttoExZTY#ccFkYLgf6KSVfLNviJlGrgVnpyGEBu5EU5aTMJhyIl4)
+**Fail 3D** boleh dimuat turun di [sini](https://www.tinkercad.com/things/119S82dprjt-powerful-stantia-allis)
 
 ## Bantuan masalah
 Sila e-mel saya di termzl0ckd0wn@termz.eu.org untuk bantuan lanjut **atau** boleh pergi ke [**pusat isu repositori**](https://github.com/TERMZL0ckd0wn/BSWA/issues) untuk mendapatkan bantuan sambil kongsikan cara penyelesaian masalah kepada pengguna lain
