@@ -1,8 +1,8 @@
 /* 
   Ditulis semula oleh KamarulUkail 2024 | TERMZL0ckd0wn
-  Sumber Projek : 1. https://termz.eu.org/projects/BSWA-BM (Bahasa Melayu)
-                  2. https://termz.eu.org/projects/BSWA-EN (English)
-                  2. https://github.com/TERMZL0ckd0wn/BSWA (Github)
+  Sumber Projek : 1. https://termz.eu.org/projects/TE-BM (BM)
+                  2. https://termz.eu.org/projects/TE-EN (EN)
+                  2. https://github.com/TERMZL0ckd0wn/Tongkat-Elektronik (BM/EN)
 */
 
 // Menyatakan berberapa pemboleh ubah untuk pin yang digunakan
@@ -17,7 +17,7 @@ int jarak;
 int jarakSelamat;
 
 
-void setup() { // Kawasan 
+void setup() { // Kawasan hanya berjalan sekali sahaja
   
   // Nyatakan trigPin & buzzer adalah komponen output
   pinMode(trigPin, OUTPUT);
