@@ -3,7 +3,7 @@ This project is a cane for old people to detect obstacles that is not in thier v
 
 ## Full Explaination
 
-This cane is typically used by people of old age or the same state as them for detecting obstacles that is out of their field of view. This cane also has another feature. It is not just detecting objects, it can also detect the presence of water because of the water sensor on the bottom of the cane for detecting puddles and such. This cane uses electric and electronic components that is easy to acquire in the current market.
+This cane is typically used by people of old age or the same circumstance as them for detecting obstacles that is out of their field of view. This cane also has another feature. It is not just detecting objects, it can also detect the presence of water because of the water sensor on the bottom of the cane for detecting puddles and such. This cane uses electric and electronic components that is easy to acquire in the current market.
 
 **List of electric components :**
 1. Switch
@@ -16,33 +16,33 @@ This cane is typically used by people of old age or the same state as them for d
 2. Ultrasonic Sensor
 3. Water Sensor
 
-Other than that, The chassis that holds the components together can be 3D Printed. The chassis design is simple, compact and quite lightwheight. If you want to make other designs of the case, that can be easily achived [TinkerCAD](https://tinkercad.com).
+Other than that, The chassis that holds the components together can be 3D Printed. The chassis design is simple, compact and quite lightwheight. If you want to make other designs of the case, that can be easily achived by using a web-app called [TinkerCAD](https://tinkercad.com).
 
-## Model 3D dan skematik litar projek
+## 3D Model and circuit schematics
 
 #### Skematik Litar
-![Skematik Litar](https://github.com/TERMZL0ckd0wn/Tongkat-Elektronik/blob/main/gambar-images/circuit.png)
+![Circuit schematics](https://github.com/TERMZL0ckd0wn/Tongkat-Elektronik/blob/main/gambar-images/circuit_en.png)
 
-#### Skematik 3D
-Boleh rujuk kepada fail 3D [dibawah](#fail-projek).
+#### 3D Model schematics
+This is can be found [below](#project-files).
 
-## Fail projek
+## Project files
 
-**Fail pengaturcaraan** boleh dimuat turun diatas dengan menekan `Code`>`Download ZIP` dan _unzip_ fail tersebut lalu membuka fail `.ino` dengan Arduino IDE atau pengedit teks yang lain (seperti Notepad).
+**The code** can be downloaded at the top of this page by pressing `Code`>`Download ZIP` and unzip the file. Then, open the `.ino` using the Arduino IDE or any text editor (such as Notepad).
 
 >[!NOTE]
->Jika mahu cetak 3D bekas pemegang tersebut, perlulah _slice_ dahulu menggunakan _slicer_ (contohnya Ultimaker Cura).
+>If you want to print this model. You have to slice it using a slicer (e.g. `Ultimaker Cura`).
 
-**Fail 3D** boleh dimuat turun di [sini](https://www.tinkercad.com/things/119S82dprjt-powerful-stantia-allis)
+**3D File** can be downloaded [here](https://www.tinkercad.com/things/119S82dprjt-powerful-stantia-allis)
 
-## Bantuan masalah
-Sila e-mel saya di termzl0ckd0wn@termz.eu.org untuk bantuan lanjut **atau** boleh pergi ke [**pusat isu repositori**](https://github.com/TERMZL0ckd0wn/Tongkat-Elektronik/issues) untuk mendapatkan bantuan sambil kongsikan cara penyelesaian masalah kepada pengguna lain
+## Help and support
+You can email me at termzl0ckd0wn@termz.eu.org **or** go to [**the repository issue page**](https://github.com/TERMZL0ckd0wn/Tongkat-Elektronik/issues) for support while share the answer to your problem with other people who might have the same problem as you.
 
-## Lesen-lesen
+## Licenses
 
-- **Pengaturcaraan (fail `.ino` Arduino)**: Lesen bawah "MIT License".
-- **Skematik litar, fail 3D dan dokumentasi**: Lesen bawah "Creative Commons Attribution-ShareAlike 4.0 International (CC-BY-SA 4.0)".
+- **Code (the given `.ino` Arduino files)**: License under the MIT License.
+- **Circut schamatics, 3D File dan documentation**: License under the Creative Commons Attribution-ShareAlike 4.0 International (CC-BY-SA 4.0).
 
-Lihat file [`LICENSE_BM`](https://github.com/TERMZL0ckd0wn/Tongkat-Elektronik/blob/main/LICENSE_BM) untuk teks lesen yang terperinci.
+See the [`LICENSE`](https://github.com/TERMZL0ckd0wn/Tongkat-Elektronik/blob/main/LICENSE) for full texts of the licenses.
 
 
