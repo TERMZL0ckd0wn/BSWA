@@ -28,7 +28,7 @@ Boleh rujuk kepada fail 3D [dibawah](#fail-projek).
 
 ## Fail projek
 
-**Fail pengaturcaraan** boleh dimuat turun diatas dengan menekan `Code`>`Download ZIP` dan _unzip_ fail tersebut lalu membuka fail `.ino` dengan Arduino IDE atau pengedit teks yang lain (seperti Notepad).
+**Fail pengaturcaraan** boleh dimuat turun diatas dengan menekan `Code`>`Download ZIP` dan _unzip_ fail tersebut lalu membuka fail `.ino` dengan Arduino IDE atau pengedit teks yang lain (seperti Notepad). PS: Untuk Bahasa Melayu, Buka folder `TongkatElektronik` untuk pengaturcaraan. Tetapi untuk English, buka folder `ElectronicCane`.
 
 >[!NOTE]
 >Jika mahu cetak 3D bekas pemegang tersebut, perlulah _slice_ dahulu menggunakan _slicer_ (contohnya Ultimaker Cura).
