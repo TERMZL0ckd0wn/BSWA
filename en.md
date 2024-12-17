@@ -28,7 +28,7 @@ This is can be found [below](#project-files).
 
 ## Project files
 
-**The code** can be downloaded at the top of this page by pressing `Code`>`Download ZIP` and unzip the file. Then, open the `.ino` using the Arduino IDE or any text editor (such as Notepad).
+**The code** can be downloaded at the top of this page by pressing `Code`>`Download ZIP` and unzip the file. Then, open the `.ino` using the Arduino IDE or any text editor (such as Notepad). PS: For Malay, open `TongkatElektronik` folder for code. But for English, open `ElectronicCane`.
 
 >[!NOTE]
 >If you want to print this model. You have to slice it using a slicer (e.g. `Ultimaker Cura`).
