@@ -15,6 +15,7 @@ This cane is typically used by people of old age or the same circumstance as the
 1. Arduino Nano (Can also be used for the Arduino UNO)
 2. Ultrasonic Sensor
 3. Water Sensor
+4. Buzzer
 
 Other than that, The chassis that holds the components together can be 3D Printed. The chassis design is simple, compact and quite lightwheight. If you want to make other designs of the case, that can be easily achived by using a web-app called [TinkerCAD](https://tinkercad.com).
 
