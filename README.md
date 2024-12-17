@@ -15,6 +15,7 @@ Tongkat ini digunakan oleh warga emas atau setaraf dengannya untuk mengesan hala
 1. Arduino Nano (Boleh juga digunakan untuk Arduino UNO)
 2. Sensor Ultrasonik
 3. Sensor Air
+4. Buzzer
 
 Selain itu, bekas pemegang untuk seluruh projek ini dicetak 3D dengan menggunakan reka bentuk yang padat dan ringkas. Jikalau mahu membuat reka bentuk yang lebih baik dan menarik, anda boleh menggunakan _web-app_ [TinkerCAD](https://tinkercad.com).
 
