@@ -1,7 +1,7 @@
 # Projek Electronic Cane - <ins>EN</ins> / [BM](https://github.com/TERMZL0ckd0wn/Tongkat-Elektronik/blob/main/README.md)
 This project is a cane for old people to detect obstacles that is not in thier view. This project uses some licenses, these licenses can be found [here](#licenses).
 
-## Full Explaination
+## Full Description
 
 This cane is typically used by people of old age or the same circumstance as them for detecting obstacles that is out of their field of view. This cane also has another feature. It is not just detecting objects, it can also detect the presence of water because of the water sensor on the bottom of the cane for detecting puddles and such. This cane uses electric and electronic components that is easy to acquire in the current market.
 
